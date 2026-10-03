@@ -6,7 +6,7 @@
 
 <p align="center">
   A VS Code-style editor in under 200kb and compatible with Windows XP.<br>
-  No Electron, no Chromium, no runtime - Pure Win32 C, built with Tiny C Compiler.
+  No Electron, and no Chromium - all Win32 C, built with Tiny C Compiler.
 </p>
 
 <p align="center">
