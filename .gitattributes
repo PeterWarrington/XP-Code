@@ -1,0 +1,8 @@
+# Windows project: keep CRLF in the working tree for batch files and sources
+* text=auto
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.c   text eol=crlf
+*.h   text eol=crlf
+*.ico binary
+*.png binary

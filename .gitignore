@@ -1,0 +1,17 @@
+# build output
+/build/
+/dist/
+*.exe
+*.old
+*.obj
+*.o
+*.msi
+*.wixpdb
+installer/*.log
+
+# python
+__pycache__/
+*.pyc
+
+# Windows Explorer thumbnail cache
+Thumbs.db
