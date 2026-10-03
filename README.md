@@ -9,6 +9,12 @@
   No Electron, no Chromium, no runtime - Pure Win32 C, built with Tiny C Compiler.
 </p>
 
+<p align="center">
+<a href="https://github.com/PeterWarrington/XP-Code/releases/download/1.0.0/XPCode-1.0.0.msi">Download installer .msi</a>
+  <br/>
+<a href="https://github.com/PeterWarrington/XP-Code/releases/download/1.0.0/XPCode-1.0.0.exe">Download standalone .exe</a>
+</p>
+
 ![XP Code editing its own source while rebuilding itself in the integrated terminal](docs/screenshot.png)
 
 ## Features
