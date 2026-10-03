@@ -63,7 +63,7 @@ Is it cool and useful though? Undeniably, so I am sharing it.
 
 I did the logo though, so I did do something.
 
-### Compilers and interpreters
+## Compilers and interpreters
 
 XP Code does not ship a compiler. For F5 and the terminal it adds these to `PATH` when they exist:
 
